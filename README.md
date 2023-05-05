@@ -87,8 +87,7 @@ Here are some ideas to get you started:
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/luismgc001">
-            
+          <a href="https://github.com/luismgc001">            
             <img src="https://github-readme-stats.vercel.app/api?username=luismgc001&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
