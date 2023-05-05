@@ -1,16 +1,14 @@
 ### Hi there 👋
 
 <div align="center">
-<a href="https://jeffreychiu.dev/">
+<!--<a href="https://luismgc001.dev/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/jchiu86">
+</a>-->
+<a href="https://www.linkedin.com/in/luismgc001">
 <img src="https://img.shields.io/badge/visit%20my%20Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="https://jeffrey-chiu.medium.com/">
-<img src="https://img.shields.io/badge/read%20my%20blogs%20on%20medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
-</a>
-<a href="mailto:mr.jeffrey.chiu@gmail.com">
+
+<a href="mailto:luismgc.001@hotmail.com">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
 </div>
@@ -58,7 +56,7 @@
 <img src="https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="photoshop" />
 </div>
 
-https://www.linkedin.com/in/luismgc001/
+
 
 <!--
 **luismgc001/luismgc001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -82,16 +80,16 @@ Here are some ideas to get you started:
       <tr>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/luismgc001">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luismgc001&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Luis Language Stats" vertical-align="middle"/>
+          <a href="https://github.com/jeffreyc86">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffreyc86&hide=ruby&layout=compact&hide_border=true&langs_count=6" alt="Jeffrey's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
-          <a href="https://github.com/luismgc001">
-            
-            <img src="https://github-readme-stats.vercel.app/api?username=luismgc001&show_icons=true&hide=stars&hide_border=true" alt="Luis GitHub Stats" vertical-align="middle"/>
+          <a href="https://github.com/jeffreyc86">
+            <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jeffreyc86?cardType=github&theme=github" alt="Jeffrey's GitHub Stats" /> -->
+            <img src="https://github-readme-stats.vercel.app/api?username=jeffreyc86&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
